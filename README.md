@@ -14,7 +14,3 @@
 ![spacepic2](https://user-images.githubusercontent.com/23709365/126389421-2cfd6332-6ef4-4c72-865e-85e26d7d38d8.png)
 
 ![vader](https://user-images.githubusercontent.com/23709365/126389489-5f5d5b25-f853-4e0e-aa41-7c708227f668.png)
-
-# Animation
-https://user-images.githubusercontent.com/23709365/126389990-4723aadd-b01d-49db-a6d8-aca265c97c80.mp4
-
