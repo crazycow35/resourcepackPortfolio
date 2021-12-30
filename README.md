@@ -10,6 +10,10 @@
 
 ![Minecraft_ 1 16 5 - Singleplayer 7_20_2021 1_57_52 PM](https://user-images.githubusercontent.com/23709365/126394727-928c8674-9460-4644-aca3-b6d490e57272.png)
 
+![bluehat](https://user-images.githubusercontent.com/23709365/147711756-cbd71169-4b3f-4f5a-8e71-3a670137bab1.png)
+
+![MagmaCrown](https://user-images.githubusercontent.com/23709365/147711769-1c048b85-f8d2-4b68-bb1b-9f0963f7a602.png)
+
 # GFX
 ![spacepic2](https://user-images.githubusercontent.com/23709365/126389421-2cfd6332-6ef4-4c72-865e-85e26d7d38d8.png)
 
