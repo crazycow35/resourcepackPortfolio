@@ -1,3 +1,4 @@
+My discord is phantomcpu#1848
 # 3D Items
 
 ![axe](https://user-images.githubusercontent.com/23709365/126389372-a455edb8-c97b-4b88-86d2-8c49074e3cb0.png)
